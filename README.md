@@ -1,13 +1,12 @@
-# Cross-matching task
+# CANFAR cross-matching task
+
+ℹ️ This development has been customised to run on [CANFAR](https://github.com/opencadc/science-containers/tree/main) platform.
 
 This task cross-matches >=2 catalogues using IVOA Simple Cone Search (SCS) services. It is currently set up to acces the following catalogues: 
 - LoTSS_DR2
 - GMRT_ADR
 - GAIA_DR3
 - 2MASS
-
-A video demo of this task being run is here: https://drive.google.com/file/d/19wWKFoTyWQv81NzeSJQcwg6RSg0GQnPn/view?usp=drive_link
-[[_TOC_]]
 
 ## How to run the task
 
